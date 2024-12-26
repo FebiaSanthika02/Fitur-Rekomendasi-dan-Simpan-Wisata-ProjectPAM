@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PAMProject</string>
+    <string name="wisata_image">Deskripsi gambar wisata</string>
+    <string name="delete_wisata">Hapus Wisata</string>
+</resources>
